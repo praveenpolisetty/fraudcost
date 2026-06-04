@@ -1,7 +1,8 @@
 # fraudcost — cost-aware thresholding & calibration for fraud models
 
+[![CI](https://github.com/praveenpolisetty/fraudcost/actions/workflows/ci.yml/badge.svg)](https://github.com/praveenpolisetty/fraudcost/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![PyPI](https://img.shields.io/badge/pip-fraudcost-blue)](#install)
+[![Python](https://img.shields.io/badge/python-3.10%2B-blue)](#install)
 
 **Your fraud model is probably pointed at the wrong number.** Most detectors are tuned for AUC, but a
 deployed system decides at a threshold where the two kinds of error cost very different amounts.
