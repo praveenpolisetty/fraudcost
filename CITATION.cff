@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use fraudcost, please cite the companion paper and this software."
+title: "fraudcost: cost-aware thresholding and calibration for fraud models"
+version: 0.1.0
+date-released: 2026-01-01
+authors:
+  - family-names: "Polisetty"
+    given-names: "Praveen Kumar"
+url: "https://github.com/praveenpolisetty/fraudcost"
+license: MIT
+references:
+  - type: conference-paper
+    title: "Paying for Precision: A Cost-Aware Evaluation of Card-Fraud Models on the IEEE-CIS Benchmark"
+    authors:
+      - family-names: "Polisetty"
+        given-names: "Praveen Kumar"
+    year: 2026
